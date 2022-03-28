@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Poppins', sans-serif; }
+
+.container-section{
+    
+    margin: 5px;
+    overflow: auto;
+    max-width: 100%;
+    min-height: 300px;
+    border: 2px solid lightblue;
+    border-radius: 30px;
+}
+
+ .boton {
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: inherit;
+}

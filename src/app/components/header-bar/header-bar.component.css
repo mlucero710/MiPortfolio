@@ -1,0 +1,15 @@
+.flexExpand {
+    flex: 1 1 auto;
+  }
+
+.bar{
+    background-color: lightblue;
+    border: none;
+    margin-bottom: 7px;
+
+}
+
+.bar p {
+    color:black;
+    font-weight: bold;
+}
