@@ -1,0 +1,9 @@
+.headerBtns{
+    position:relative;
+    display:flex;
+    justify-self:flex-start;
+    align-self:flex-end;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
