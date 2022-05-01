@@ -15,6 +15,12 @@ import { HeaderComponent } from './components/header/header.component';
 import { BackgoundHeaderComponent } from './components/header/backgound-header/backgound-header.component';
 import { ProfilePictureComponent } from './components/profile-picture/profile-picture.component';
 import { HeaderButtonsComponent } from './components/header-buttons/header-buttons.component';
+import { AboutSectionComponent } from './components/about-section/about-section.component';
+import { EditButtonComponent } from './components/edit-button/edit-button.component';
+import { ExperienceSectionComponent } from './components/experience-section/experience-section.component';
+import { EducationSectionComponent } from './components/education-section/education-section.component';
+import { AddButtonComponent } from './components/add-button/add-button.component';
+import { DeleteButtonComponent } from './components/delete-button/delete-button.component';
 
 
 
@@ -27,6 +33,12 @@ import { HeaderButtonsComponent } from './components/header-buttons/header-butto
     BackgoundHeaderComponent,
     ProfilePictureComponent,
     HeaderButtonsComponent,
+    AboutSectionComponent,
+    EditButtonComponent,
+    ExperienceSectionComponent,
+    EducationSectionComponent,
+    AddButtonComponent,
+    DeleteButtonComponent,
   
     
   ],

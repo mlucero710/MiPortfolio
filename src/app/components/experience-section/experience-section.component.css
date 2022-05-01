@@ -1,0 +1,11 @@
+p{
+    margin: 3px 15px 3px ;
+}
+h2, h3, h4 {
+    margin: 0px 15px 3px;
+}
+
+h5, h6{
+    margin: 0px 15px 0px; 
+    color:gray;
+}

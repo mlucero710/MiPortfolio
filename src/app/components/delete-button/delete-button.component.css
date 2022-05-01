@@ -1,0 +1,15 @@
+.icon-container{
+    position: relative;
+}
+.delete-icon{
+    position:absolute;  
+    cursor:pointer;
+    width: 25px;
+    height: 25px; 
+    border-radius: 50%;    
+}
+
+.delete-icon:hover{
+    background-color:rgba(128,128,128, 0.5);
+    box-shadow: 0px 2px 8px 2px #32332E;
+}

@@ -12,19 +12,3 @@ div{
     background-color:white;
     padding: 4px;
 }
-
-.profileIcon{
-    position:absolute;
-    top: 48%;
-    left:165px;
-    cursor:pointer;
-    width: 25px;
-    height: 25px; 
-    border-radius: 50%;    
-}
-
-
-.profileIcon:hover{
-    background-color:rgba(128,128,128, 0.5);
-    box-shadow: 0px 2px 8px 2px #32332E;
-}
