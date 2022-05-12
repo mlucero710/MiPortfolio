@@ -21,6 +21,7 @@ import { ExperienceSectionComponent } from './components/experience-section/expe
 import { EducationSectionComponent } from './components/education-section/education-section.component';
 import { AddButtonComponent } from './components/add-button/add-button.component';
 import { DeleteButtonComponent } from './components/delete-button/delete-button.component';
+import { SkillsComponentComponent } from './components/skills-component/skills-component.component';
 
 
 
@@ -39,6 +40,7 @@ import { DeleteButtonComponent } from './components/delete-button/delete-button.
     EducationSectionComponent,
     AddButtonComponent,
     DeleteButtonComponent,
+    SkillsComponentComponent,
   
     
   ],

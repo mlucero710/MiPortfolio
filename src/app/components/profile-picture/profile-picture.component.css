@@ -12,3 +12,12 @@ div{
     background-color:white;
     padding: 4px;
 }
+@media(max-width: 720px){
+    .image-container{
+        justify-content: center;
+    }
+    .imgProfile{
+        width:200px;
+        height:200px
+    }
+}
